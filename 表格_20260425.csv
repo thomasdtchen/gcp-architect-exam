@@ -1,0 +1,31 @@
+﻿Week,"Course Links (All lessons, checks and quizzes need to be completed in Google Skills as it is)",Self Study [Courses and Labs] - Phase II / Required Labs,Required Lab links,Optional labs (Not required to complete),Optional Lab Links (Not required to complete)
+Week 1,https://www.skills.google.com/course/template/1157,Loading data into BigQuery,https://www.skills.google.com/catalog/lab/2119,Use Serverless for Apache Spark to Load BigQuery,https://www.skills.google.com/catalog/lab/31670
+,,PostgreSQL Replication to BigQuery,https://www.skills.google.com/catalog/lab/5777,,
+,,BigQuery: Quick Start,https://www.skills.google.com/catalog/lab/4896,,
+,,Create and execute a SQL workflow in Dataform,https://www.skills.google.com/catalog/lab/29934,,
+,,Creating a Streaming Data Pipeline for a Real-Time Dashboard with Dataflow,https://www.skills.google.com/catalog/lab/20678,,
+,,Use Cloud Run Functions to load to BigQuery,https://www.skills.google.com/catalog/lab/31673,,
+,,Predict Visitor Purchases with BigQuery ML,https://www.skills.google.com/catalog/lab/6442,,
+,https://www.skills.google.com/course/templates/593,Get Started with Vertex AI Studio,https://www.skills.google.com/catalog/lab/6441,,
+,,Entity and Sentiment Analysis with the Natural Language API,https://www.skills.google.com/catalog/lab/1113,,
+,,Vertex AI: Predicting Loan Risk with AutoML,https://www.skills.google.com/catalog/lab/4624,,
+Week 2,https://www.skills.google.com/course/templates/21,Configuring IAM,https://www.skills.google.com/catalog/lab/1429,Configuring and Using VPC Flow Logs in Cloud Logging,http://www.skills.google.com/catalog/lab/1431
+,,Configuring VPC Firewalls,https://www.skills.google.com/catalog/lab/1430,,
+,,Getting Started with Cloud IDS,https://www.skills.google.com/catalog/lab/5299,,
+,https://www.skills.google.com/course/templates/443,Infrastructure as Code with Terraform,https://www.skills.google.com/catalog/lab/4981,Creating Resource Dependencies with Terraform,https://www.skills.google.com/catalog/lab/4982
+,,,,Automating the Deployment of Infrastructure Using Terraform,https://www.skills.google.com/catalog/lab/2046
+,,,,Creating a Remote Backend,https://www.skills.google.com/catalog/lab/4980
+,https://www.skills.google.com/course/templates/99,Monitoring and Dash boarding Multiple Projects,https://www.skills.google.com/catalog/lab/2647,,
+,,Alerting in Google Cloud,https://www.skills.google.com/catalog/lab/2645,,
+,,Service Monitoring,https://www.skills.google.com/catalog/lab/2646,,
+,,Log Analytics on Google Cloud,https://www.skills.google.com/catalog/lab/5346,,
+,,Cloud Audit Logs,https://www.skills.google.com/catalog/lab/3422,,
+Week 3,https://www.skills.google.com/course/templates/864,Monitoring a Compute Engine by using Ops Agent,https://www.skills.google.com/catalog/lab/6469,Analyzing Network Traffic with VPC Flow Logs,https://www.skills.google.com/catalog/lab/1017
+,,View application latency with Cloud Trace,https://www.skills.google.com/catalog/lab/6516,Multiple VPC Networks,https://www.skills.google.com/catalog/lab/1031
+,,Securing Virtual Machines using Chrome Enterprise Premium,https://www.skills.google.com/catalog/lab/31752,VPC Networks - Controlling Access,https://www.skills.google.com/catalog/lab/1032
+,https://www.skills.google.com/course/templates/654,Application Load Balancer with Cloud Armor,https://www.skills.google.com/catalog/lab/1016,Enhance application reliability and scalability with internal Load Balancing,https://www.skills.google.com/catalog/lab/1034
+,,,,Challenge Lab - Build a Secure Google Cloud,https://www.skills.google.com/catalog/lab/2728
+,https://www.skills.google.com/course/templates/645,User Authentication: Identity-Aware Proxy,https://www.skills.google.com/catalog/lab/1741,Cloud IAM: Quick Start,https://www.skills.google.com/catalog/lab/686
+,,Getting Started with Cloud KMS,https://www.skills.google.com/catalog/lab/368,IAM Custom Roles,https://www.skills.google.com/catalog/lab/955
+,,Setting up a Private Kubernetes Cluster,https://www.skills.google.com/catalog/lab/908,Service Accounts and Roles: Fundamentals,https://www.skills.google.com/catalog/lab/956
+,,,,VPC Network Peering,https://www.skills.google.com/catalog/lab/955
